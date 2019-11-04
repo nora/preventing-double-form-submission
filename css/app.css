@@ -1,0 +1,4 @@
+.js-submit-disabled {
+  pointer-events: none;
+  color: gray;
+}
